@@ -1,3 +1,3 @@
 [submodule "keyboard-shortcuts"]
 	path = keyboard-shortcuts
-	url = ./keyboard-shortcuts
+	url = https://github.com/mlunax/keyboard-shortcuts.git
