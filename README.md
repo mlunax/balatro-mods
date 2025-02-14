@@ -8,4 +8,11 @@ Clone the repository directly into Balatro's mod directory:
 
 ```sh
 git clone --recursive https://github.com/mlunax/balatro-mods ~/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro
+```
 
+Add extra parameters to steam:
+
+
+```sh
+WINEDLLOVERRIDES="version=n,b" %command%
+```
