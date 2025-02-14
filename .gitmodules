@@ -1,0 +1,3 @@
+[submodule "keyboard-shortcuts"]
+	path = keyboard-shortcuts
+	url = ./keyboard-shortcuts
