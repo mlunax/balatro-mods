@@ -1,6 +1,6 @@
 [submodule "keyboard-shortcuts"]
 	path = keyboard-shortcuts
 	url = https://github.com/mlunax/keyboard-shortcuts.git
-[submodule "Mods/smods"]
-	path = Mods/smods
-	url = https://github.com/Steamodded/smods.git
+[submodule "smod"]
+	path = smod
+	url = https://github.com/Steamodded/smod
