@@ -7,3 +7,6 @@
 [submodule "Brainstorm"]
 	path = Brainstorm
 	url = https://github.com/OceanRamen/Brainstorm.git
+[submodule "Buffoonery"]
+	path = Buffoonery
+	url = https://github.com/pinkmaggit-hub/Buffoonery.git
