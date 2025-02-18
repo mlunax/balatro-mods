@@ -10,3 +10,9 @@
 [submodule "Buffoonery"]
 	path = Buffoonery
 	url = https://github.com/pinkmaggit-hub/Buffoonery.git
+[submodule "SystemClock"]
+	path = SystemClock
+	url = https://github.com/Breezebuilder/SystemClock.git
+[submodule "Malverk"]
+	path = Malverk
+	url = https://github.com/Eremel/Malverk.git
