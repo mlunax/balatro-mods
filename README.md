@@ -6,6 +6,7 @@ My default active stack:
 - keyboard_dorkdad
 - Malverk:
     - Moonspell-Cards
+    - BlueStorm
 - SystemClock
 
 
