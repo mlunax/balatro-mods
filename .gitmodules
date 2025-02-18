@@ -4,3 +4,6 @@
 [submodule "smod"]
 	path = smod
 	url = https://github.com/Steamodded/smod
+[submodule "Brainstorm"]
+	path = Brainstorm
+	url = https://github.com/OceanRamen/Brainstorm.git
