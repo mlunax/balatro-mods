@@ -16,3 +16,6 @@
 [submodule "Malverk"]
 	path = Malverk
 	url = https://github.com/Eremel/Malverk.git
+[submodule "Galdur"]
+	path = Galdur
+	url = https://github.com/Eremel/Galdur.git
