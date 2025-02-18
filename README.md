@@ -2,6 +2,17 @@
 
 This repository contains mods playlist for **Balatro** by lunax, enhancing gameplay with custom modifications.
 
+My default active stack:
+- keyboard_dorkdad
+- Malverk:
+    - Moonspell-Cards
+- SystemClock
+
+
+Mods prepared for special situation (disabled in config):  
+- Brainstorm
+- Buffoonery
+
 ## Installation
 
 Clone the repository directly into Balatro's mod directory:  
