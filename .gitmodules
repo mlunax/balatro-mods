@@ -19,3 +19,9 @@
 [submodule "Galdur"]
 	path = Galdur
 	url = https://github.com/Eremel/Galdur.git
+[submodule "textures/BlueStorm_Malverk"]
+	path = textures/BlueStorm_Malverk
+	url = https://github.com/Sesebasti/BlueStorm_Malverk.git
+[submodule "textures/Moodspell"]
+	path = textures/Moodspell
+	url = https://github.com/Eremel/Moonspell-Cards.git
