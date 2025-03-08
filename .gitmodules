@@ -25,3 +25,9 @@
 [submodule "textures/Moodspell"]
 	path = textures/Moodspell
 	url = https://github.com/Eremel/Moonspell-Cards.git
+[submodule "AikoPaintJob"]
+	path = AikoPaintJob
+	url = https://github.com/Aikoyori/Balatro_AikoPaintJob.git
+[submodule "BalaQuints"]
+	path = BalaQuints
+	url = https://github.com/Luuumine/BalaQuints.git

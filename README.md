@@ -7,6 +7,8 @@ My default active stack:
 - Malverk:
     - Moonspell-Cards
     - BlueStorm
+    - AikoPaintJob
+    - BalaQuints
 - SystemClock
 
 
